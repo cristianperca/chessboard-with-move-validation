@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cristianperca/chessboard-with-move-validation.git/static/css/main.a2b7b0b6.chunk.css",
+    "main.js": "/cristianperca/chessboard-with-move-validation.git/static/js/main.55308aa8.chunk.js",
+    "main.js.map": "/cristianperca/chessboard-with-move-validation.git/static/js/main.55308aa8.chunk.js.map",
+    "runtime-main.js": "/cristianperca/chessboard-with-move-validation.git/static/js/runtime-main.5ab11795.js",
+    "runtime-main.js.map": "/cristianperca/chessboard-with-move-validation.git/static/js/runtime-main.5ab11795.js.map",
+    "static/js/2.3c758ad9.chunk.js": "/cristianperca/chessboard-with-move-validation.git/static/js/2.3c758ad9.chunk.js",
+    "static/js/2.3c758ad9.chunk.js.map": "/cristianperca/chessboard-with-move-validation.git/static/js/2.3c758ad9.chunk.js.map",
+    "index.html": "/cristianperca/chessboard-with-move-validation.git/index.html",
+    "precache-manifest.b51a873fcfd7ed7398e6b254575159cd.js": "/cristianperca/chessboard-with-move-validation.git/precache-manifest.b51a873fcfd7ed7398e6b254575159cd.js",
+    "service-worker.js": "/cristianperca/chessboard-with-move-validation.git/service-worker.js",
+    "static/css/main.a2b7b0b6.chunk.css.map": "/cristianperca/chessboard-with-move-validation.git/static/css/main.a2b7b0b6.chunk.css.map",
+    "static/js/2.3c758ad9.chunk.js.LICENSE.txt": "/cristianperca/chessboard-with-move-validation.git/static/js/2.3c758ad9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ab11795.js",
+    "static/js/2.3c758ad9.chunk.js",
+    "static/css/main.a2b7b0b6.chunk.css",
+    "static/js/main.55308aa8.chunk.js"
+  ]
+}
