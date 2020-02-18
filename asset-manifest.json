@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/cristianperca/chessboard-with-move-validation/static/css/main.a2b7b0b6.chunk.css",
-    "main.js": "/cristianperca/chessboard-with-move-validation/static/js/main.609f2d1c.chunk.js",
-    "main.js.map": "/cristianperca/chessboard-with-move-validation/static/js/main.609f2d1c.chunk.js.map",
-    "runtime-main.js": "/cristianperca/chessboard-with-move-validation/static/js/runtime-main.b3e7ff86.js",
-    "runtime-main.js.map": "/cristianperca/chessboard-with-move-validation/static/js/runtime-main.b3e7ff86.js.map",
-    "static/js/2.3c758ad9.chunk.js": "/cristianperca/chessboard-with-move-validation/static/js/2.3c758ad9.chunk.js",
-    "static/js/2.3c758ad9.chunk.js.map": "/cristianperca/chessboard-with-move-validation/static/js/2.3c758ad9.chunk.js.map",
-    "index.html": "/cristianperca/chessboard-with-move-validation/index.html",
-    "precache-manifest.9e68c89c76d4b31817f9f72a4977c3c5.js": "/cristianperca/chessboard-with-move-validation/precache-manifest.9e68c89c76d4b31817f9f72a4977c3c5.js",
-    "service-worker.js": "/cristianperca/chessboard-with-move-validation/service-worker.js",
-    "static/css/main.a2b7b0b6.chunk.css.map": "/cristianperca/chessboard-with-move-validation/static/css/main.a2b7b0b6.chunk.css.map",
-    "static/js/2.3c758ad9.chunk.js.LICENSE.txt": "/cristianperca/chessboard-with-move-validation/static/js/2.3c758ad9.chunk.js.LICENSE.txt"
+    "main.css": "/chessboard-with-move-validation/static/css/main.a2b7b0b6.chunk.css",
+    "main.js": "/chessboard-with-move-validation/static/js/main.77d584a7.chunk.js",
+    "main.js.map": "/chessboard-with-move-validation/static/js/main.77d584a7.chunk.js.map",
+    "runtime-main.js": "/chessboard-with-move-validation/static/js/runtime-main.b1462a98.js",
+    "runtime-main.js.map": "/chessboard-with-move-validation/static/js/runtime-main.b1462a98.js.map",
+    "static/js/2.3c758ad9.chunk.js": "/chessboard-with-move-validation/static/js/2.3c758ad9.chunk.js",
+    "static/js/2.3c758ad9.chunk.js.map": "/chessboard-with-move-validation/static/js/2.3c758ad9.chunk.js.map",
+    "index.html": "/chessboard-with-move-validation/index.html",
+    "precache-manifest.0024fa931d7d381d38e416bf160a0ee5.js": "/chessboard-with-move-validation/precache-manifest.0024fa931d7d381d38e416bf160a0ee5.js",
+    "service-worker.js": "/chessboard-with-move-validation/service-worker.js",
+    "static/css/main.a2b7b0b6.chunk.css.map": "/chessboard-with-move-validation/static/css/main.a2b7b0b6.chunk.css.map",
+    "static/js/2.3c758ad9.chunk.js.LICENSE.txt": "/chessboard-with-move-validation/static/js/2.3c758ad9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.b3e7ff86.js",
+    "static/js/runtime-main.b1462a98.js",
     "static/js/2.3c758ad9.chunk.js",
     "static/css/main.a2b7b0b6.chunk.css",
-    "static/js/main.609f2d1c.chunk.js"
+    "static/js/main.77d584a7.chunk.js"
   ]
 }
